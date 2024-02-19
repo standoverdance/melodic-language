@@ -8,11 +8,7 @@ Translate english to music.
 pip install mido
 ```
 
-Then run midilang.py file. You can do it in terminal
-
-```
-C:\path\to\files python midilang.py
-```
+Then run midilang.py file. You can do it in terminal `C:\path\to\files python midilang.py`
 
 # Language chart.
 
@@ -60,10 +56,11 @@ it can be categorized as a Conlang. (language, constructed artificially)
 It was created for artistic purposes (for a fantasy world). So subcategory is an Artlang.
 It is a Relex -  The constructed language using word for word translation from existing language.
 
-Code made specifically for people to create, and easily translate to music their own languages. Without coding knowledge. 
+Code made specifically for people to create, and easily translate to music their own languages. Without coding knowledge - You just need to add your conlang dictionary to a [settings](settings.py) file. But first I would recommend to make it in excel.
+
 The list of letters itself can be extended up to 49 Without bugs. Up to 97 with small fixes. 
 (So it is possible to literally translate both hiragana and katakana alphabets "Japanese" to sounds with just one dictionary. !Not possible for humans to sing it!)
 
-English has 26 letters, the languages below have 25 because Q and K got merged. To perfectly fit a scale of two octaves (12 semitones up and down). !It is possible to sing it!
+English has 26 letters, the languages below have 25 because Q and K got merged. Look at [dictionaries](settings.py) To perfectly fit a scale of two octaves (12 semitones up and down). !It is possible to sing it!
 
 

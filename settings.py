@@ -24,8 +24,8 @@ RESET_WORDS = {  # Reset words also needs to be capitalized
     't': 'EAO'
 }
 # Language Settings;
-INTRODUCE = True  # If you want to include introduction word in translation
-RESET_BOOL = True  # If you want to include reset words in translation
+INTRODUCE = False  # If you want to include introduction word in translation
+RESET_BOOL = False  # If you want to include reset words in translation
 
 # Singer settings:
 MAX_range = 95 # Based on MIDI notes numbers chart

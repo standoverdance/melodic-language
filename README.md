@@ -13,6 +13,7 @@ Then run midilang.py file. You can do it in terminal `C:\path\to\files python mi
 # Language chart.
 
 __Eariot__ - [English letter frequency.](https://www3.nd.edu/~busiforc/handouts/cryptography/letterfrequencies.html)
+
 __Tuxvy__ - Letters sorted by shuffling english letter frequency to match [pleasant intervals](https://www.reddit.com/r/musictheory/comments/p9lrbh/i_rank_all_intervals_from_most_to_least_consonant/)
 
 | Number | Semitones | Eariot | Tuxvy |

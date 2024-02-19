@@ -1,6 +1,7 @@
 # Melodic language
 Translate english to music.
 
+## Here is a sound [sample](https://soundcloud.com/overdance/melodic-language-sample)
 
 ### To use it, have python installed and import mido:
 

@@ -28,7 +28,7 @@ INTRODUCE = True  # If you want to include introduction word in translation
 RESET_BOOL = True  # If you want to include reset words in translation
 
 # Singer settings:
-MAX_range = 95
-MIN_range = 32
-STARTING_NOTE = 60
+MAX_range = 95 # Based on MIDI notes numbers chart
+MIN_range = 32 # MIDI notes numbers chart
+STARTING_NOTE = 60 # MIDI notes numbers chart
 NOTE_DURATION = 500 # Duration of each note in miliseconds

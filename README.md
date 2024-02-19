@@ -8,10 +8,16 @@ Translate english to music.
 pip install mido
 ```
 
+Then run midilang.py file. You can do it in terminal
+
+```
+C:\path\to\files python midilang.py
+```
+
 # Language chart.
 
 __Eariot__ - [English letter frequency.](https://www3.nd.edu/~busiforc/handouts/cryptography/letterfrequencies.html)
-__Tuxvy__ - Letters sorted by [pleasant intervals](https://www.reddit.com/r/musictheory/comments/p9lrbh/i_rank_all_intervals_from_most_to_least_consonant/)
+__Tuxvy__ - Letters sorted by shuffling english letter frequency to match [pleasant intervals](https://www.reddit.com/r/musictheory/comments/p9lrbh/i_rank_all_intervals_from_most_to_least_consonant/)
 
 | Number | Semitones | Eariot | Tuxvy |
 | -------- | ------- | -------- | ------- |
@@ -43,7 +49,8 @@ __Tuxvy__ - Letters sorted by [pleasant intervals](https://www.reddit.com/r/musi
 
 If you want to extend it, follow the semitone sequence for accurate translation 
 example:
-| 26 | 13 up | Ę |
+| 26 | 13 up | Ę | 
+| -------- | ------- | -------- |
 | 27 | 13 down | Ą |
 
 

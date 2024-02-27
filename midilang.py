@@ -189,8 +189,7 @@ def accompaniment(chords, duration=1, velocity=64, output_file='output.mid'):
     
     
 sing(my_song.complete_midi_list(), duration=NOTE_DURATION, output_file='melody.mid')
-chords = my_song.complete_chord_list()
-accompaniment(chords, duration=NOTE_DURATION, output_file='chords.mid')
+accompaniment(my_song.complete_chord_list(), duration=NOTE_DURATION, output_file='chords.mid')
 
 # Debug
 # print(my_song.complete_midi_list())

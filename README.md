@@ -45,7 +45,7 @@ __Tuxvy__ - Letters sorted by shuffling english letter frequency to match [pleas
 | 24 | 12 up | Z | U |
 | 25 | 12 down | J | T |
 
-If you want to extend it, follow the semitone sequence for accurate translation 
+If you want to change or extend it, follow the semitone sequence for accurate translation to sound. 
 example:
 | 26 | 13 up | Ę | 
 | -------- | ------- | -------- |

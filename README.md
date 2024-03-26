@@ -58,7 +58,7 @@ it can be categorized as a Conlang. (language, constructed artificially)
 It was created for artistic purposes (for a fantasy world). So subcategory is an Artlang.
 It is a Relex -  The constructed language using word for word translation from existing language.
 
-Code made specifically for people to create, and easily translate to music their own languages. Without coding knowledge - You just need to add your conlang dictionary to a [settings](settings.py) file. But first I would recommend to make it in excel.
+Code made specifically for people to create, and easily translate to music their own languages. With little coding knowledge - You just need to add your conlang dictionary to a [settings](settings.py) file. But first I would recommend to make it in excel.
 
 The list of letters itself can be extended up to 49 Without bugs. Up to 97 with small fixes. 
 (So it is possible to literally translate both hiragana and katakana alphabets "Japanese" to sounds with just one dictionary. !Not possible for humans to sing it!)
